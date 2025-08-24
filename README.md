@@ -18,7 +18,7 @@ I write code that even my future self can (sometimes) understand. Specializing i
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![Express] (https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=white)
 
 #### **Languages** 📝
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
