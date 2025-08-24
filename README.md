@@ -1,8 +1,8 @@
 ## Hi there, I'm Aarav! 👋
 
-🚀 **Full-Stack Developer | API Whisperer | Optimization Fanatic** 🚀
+**Full-Stack Developer |**
 
-I write code that even my future self can (sometimes) understand. Specializing in **Vue.js, Next.js, Django, and Go**, I create blazing-fast, scalable, and aesthetically pleasing web applications. If there's a way to shave milliseconds off load times, I'll find it. 🔍
+I write code that even my future self can (sometimes) understand. Specializing in **Vue.js, React.js, Node.js, Express.js, Typescript, Javascript, Next.js, Django, and Go**, I create blazing-fast, scalable, and aesthetically pleasing web applications. If there's a way to shave milliseconds off load times, I'll find it. 🔍
 
 ---
 
@@ -36,12 +36,13 @@ I write code that even my future self can (sometimes) understand. Specializing i
 
 ---
 
-### 😆 About Me (With a Twist!)
-- 🤖 I talk to APIs more than people. (They listen better!)
-- ⚡ LCP optimization is my cardio.
-- 💡 "Let's try a new framework!" – Me, every week.
-- 🔍 Debugging is like detective work, but with more coffee and fewer crime scenes.
+### 😆 About Me 
+- I Build.
+- ⚡ LCP optimization.
+- Try New things.
+- Debugging.
 - 🎨 UX matters—users should feel like superheroes, not hostages.
+- I love to play guitar.
 
 ---
 
