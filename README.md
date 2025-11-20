@@ -1,54 +1,42 @@
-## Hi there, I'm Aarav! 👋
+# Hey, I'm Aarav 👋
 
-**Full-Stack Developer |**
+**Software Engineer & DevOps Engineer**
 
-I write code that even my future self can (sometimes) understand. Specializing in **Vue.js, React.js, Node.js, Express.js, Typescript, Javascript, Next.js, Django, and Go**, I create blazing-fast, scalable, and aesthetically pleasing web applications. If there's a way to shave milliseconds off load times, I'll find it. 🔍
-
----
-
-### ⚡ Tech Stack (A Visual Guide!)
-#### **Frontend** 🎨
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-#### **Backend** 🛠️
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=white)
-
-#### **Languages** 📝
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### **DevOps & Infrastructure** ☁️
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+I build fast, scalable web applications and automate infrastructure. When I'm not optimizing load times or writing CI/CD pipelines, I'm probably refactoring code that was perfectly fine (or so I tell myself).
 
 ---
 
-### 😆 About Me 
-- I Build.
-- ⚡ LCP optimization.
-- Try New things.
-- Debugging.
-- 🎨 UX matters—users should feel like superheroes, not hostages.
-- I love to play guitar.
+## 🛠️ What I Work With
+
+**Frontend**  
+Vue.js • React • Next.js • Tailwind CSS • Vite • Webpack
+
+**Backend**  
+Node.js • Express • Django • Go • Laravel
+
+**Languages**  
+JavaScript • TypeScript • Python • Go • PHP
+
+**DevOps & Cloud**  
+AWS • Docker • Terraform • Ansible • Jenkins • Linux • CI/CD
+
+**Databases**  
+PostgreSQL • MySQL • SQLite
 
 ---
 
-### 📫 Connect With Me (Or Send Cat Memes 🐱)
-- **GitHub**: [aarav345](https://github.com/aarav345)  
-- **LinkedIn**: [linkedin.com/in/aarav345](https://linkedin.com/in/aarav345)  
-- **Website**: Coming soon (Probably after I stop refactoring it!)
+## 💭 A Bit About Me
 
-Let's build something legendary! 🎯💻🔥
+I'm passionate about building things that work well and feel good to use. Performance matters, but so does the experience—users shouldn't feel frustrated navigating your app.
+
+When I'm not coding, I'm either debugging something that shouldn't be broken, experimenting with new tech, or playing guitar.
+
+---
+
+## 📬 Let's Connect
+
+**GitHub:** [aarav345](https://github.com/aarav345)  
+**LinkedIn:** [linkedin.com/in/aarav345](https://linkedin.com/in/aarav345)  
+**Website:** Coming soon (still refactoring it... again)
+
+Always open to interesting projects and conversations. Feel free to reach out!
