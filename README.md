@@ -18,10 +18,10 @@ Node.js • Express • Django • Go • Laravel
 JavaScript • TypeScript • Python • Go • PHP
 
 **DevOps & Cloud**  
-AWS • Docker • Terraform • Ansible • Jenkins • Linux • CI/CD
+AWS • Docker • Terraform • Ansible • Jenkins • Linux • CI/CD • Kubernetes
 
 **Databases**  
-PostgreSQL • MySQL • SQLite
+PostgreSQL • MySQL • SQLite • MongoDB
 
 ---
 
